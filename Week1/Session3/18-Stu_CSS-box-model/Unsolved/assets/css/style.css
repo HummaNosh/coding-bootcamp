@@ -1,0 +1,17 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+/* changed padding size, margin to center and border colour and size */
+/* changed */
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  padding: 20px;
+  border: 10px solid blue;
+  margin: 15px;
+  text-align: center;
+}
